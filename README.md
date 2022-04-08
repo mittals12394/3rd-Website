@@ -1,2 +1,1 @@
-# 3rd-Website
-startup website layout
+TinDog Starting Files
